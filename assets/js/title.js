@@ -1,12 +1,12 @@
 // Array containing different titles to cycle through
 var titles = [
-  "pxnda",
-  "pxnda i",
-  "pxnda is",
-  "pxnda is c",
-  "pxnda is co",
-  "pxnda is coo",
-  "pxnda is cool"
+  "can",
+  "can i",
+  "can is",
+  "can is c",
+  "can is co",
+  "can is coo",
+  "can is cool"
 ];
 
 // Function to change the title periodically
