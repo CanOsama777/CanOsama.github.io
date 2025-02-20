@@ -157,8 +157,8 @@ body {
 
 
 /* Blurred box hover effect */
-#blurred-box:hover {
-  background-color: rgba(255, 255, 255, 0.05); /* Semi-transparent background on hover */
+#blurred-box {
+  border: none; /* Entfernt den Rand komplett */
 }
 
 /* Profile picture styles */
